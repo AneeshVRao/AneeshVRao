@@ -26,18 +26,13 @@
 
 ### **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,express" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi" />
 </p>
 
-### **AI & ML**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py"/>
-  <b>OpenAI • AI4Bharat • Embeddings • NLP • Prompt Engineering</b>
-</p>
 
 ### **Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,postgres,mongodb,supabase" />
+  <img src="https://skillicons.dev/icons?i=firebase,postgres,supabase" />
 </p>
 
 ### **DevOps & Infra**
