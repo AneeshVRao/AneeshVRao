@@ -1,7 +1,8 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&weight=600&pause=1000&color=1e90ff&center=true&vCenter=true&width=800&lines=Hey!+I'm+Aneesh+👋;Full-stack+Developer+⚡;Backend+%26+API+Engineer+🛠️;AI+Integration+Developer+🤖" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Aneesh+👋;Full-stack+Developer+⚡;Backend+%26+API+Engineer+🛠️;AI+Integration+Developer+🤖" />
 </h1>
+
 
 <p align="center">
   I build scalable backends, clean frontends, and practical AI-powered products.
@@ -63,7 +64,7 @@
 ---
 
 ## 📫 Contact Me  
-📧 **Email:** `aneesh.vrao@gmail.com`
+📧 **Email:** `aneeshvrao2017@gmail.com`
 
 ---
 
