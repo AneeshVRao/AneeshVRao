@@ -2,18 +2,19 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Aneesh+👋" />
 </h1>
+
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AneeshVRao&style=flat-square&color=1E90FF" />
 </p>
-
-
 
 <p align="center">
   I build scalable backends, clean frontends, and practical AI-powered products.
 </p>
 
-<hr style="border: 0.5px solid #1E90FF; margin: 30px 0;" />
+<br/>
 
+---
 
 ## 🚀 Projects I'm Building
 
@@ -21,8 +22,19 @@
 - 🤖 <b>ProdScrape</b> — automated scraping + product metadata engine  
 - ⚙️ <b>Utility Tools</b> — translators, dashboards, LLM-based mini apps  
 
-<hr style="border: 0.5px solid #1E90FF; margin: 30px 0;" />
+<br/>
 
+---
+
+## 🧠 AI & ML (Core Expertise)
+
+<p align="left">
+  <b>OpenAI • AI4Bharat • Embeddings • NLP Pipelines • Text Processing • Prompt Engineering • Vector Search</b>
+</p>
+
+<br/>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +48,6 @@
   <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi" />
 </p>
 
-
 ### **Databases**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=firebase,postgres,supabase" />
@@ -47,20 +58,24 @@
   <img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,githubactions" />
 </p>
 
-<hr style="border: 0.5px solid #1E90FF; margin: 30px 0;" />
+<br/>
 
+---
 
 ## 🌱 Currently Learning
 - Distributed scraping pipelines  
 - Backend performance optimization  
 - Edge functions + caching strategies  
 
-<hr style="border: 0.5px solid #1E90FF; margin: 30px 0;" />
+<br/>
+
+---
 
 ## 📫 Contact Me  
 📧 **Email:** `aneeshvrao2017@gmail.com`
 
-<hr style="border: 0.5px solid #1E90FF; margin: 30px 0;" />
+<br/>
 
+---
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
