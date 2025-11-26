@@ -8,7 +8,8 @@
   I build scalable backends, clean frontends, and practical AI-powered products.
 </p>
 
----
+<hr style="border: 0.5px solid #1E90FF; margin: 30px 0;" />
+
 
 ## 🚀 Projects I'm Building
 
@@ -16,7 +17,8 @@
 - 🤖 <b>ProdScrape</b> — automated scraping + product metadata engine  
 - ⚙️ <b>Utility Tools</b> — translators, dashboards, LLM-based mini apps  
 
----
+<hr style="border: 0.5px solid #1E90FF; margin: 30px 0;" />
+
 
 ## 🛠️ Tech Stack
 
@@ -41,32 +43,20 @@
   <img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,githubactions" />
 </p>
 
----
+<hr style="border: 0.5px solid #1E90FF; margin: 30px 0;" />
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AneeshVRao&show_icons=true&theme=tokyonight&hide_border=true" height="165px" />
-  <img src="https://streak-stats.demolab.com?user=AneeshVRao&theme=tokyonight&hide_border=true" height="165px" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AneeshVRao&layout=compact&theme=tokyonight&hide_border=true" height="165px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshVRao&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
-</p>
-
----
 
 ## 🌱 Currently Learning
 - Distributed scraping pipelines  
 - Backend performance optimization  
 - Edge functions + caching strategies  
 
----
+<hr style="border: 0.5px solid #1E90FF; margin: 30px 0;" />
 
 ## 📫 Contact Me  
 📧 **Email:** `aneeshvrao2017@gmail.com`
 
----
+<hr style="border: 0.5px solid #1E90FF; margin: 30px 0;" />
+
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
