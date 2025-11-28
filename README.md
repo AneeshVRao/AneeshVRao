@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Aneesh+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Aneesh+👋" />
 </h1>
 
 <!-- Profile Views -->
