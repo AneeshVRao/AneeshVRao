@@ -26,16 +26,6 @@
 
 ---
 
-## 🧠 AI & ML (Core Expertise)
-
-<p align="left">
-  <b>OpenAI • AI4Bharat • Embeddings • NLP Pipelines • Text Processing • Prompt Engineering • Vector Search</b>
-</p>
-
-<br/>
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Frontend**
