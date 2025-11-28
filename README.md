@@ -1,5 +1,3 @@
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
-# 💫 About Me:
 <!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Aneesh+👋" />
@@ -9,6 +7,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AneeshVRao&style=flat-square&color=1E90FF" />
 </p>
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
+# 💫 About Me:
 
 <p align="center">
   I build scalable backends, clean frontends, and practical AI-powered products.
@@ -28,32 +29,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=next,react,ts,tailwind,javascript" />
-</p>
-
-### **Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi" />
-</p>
-
-### **Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,postgres,supabase" />
-</p>
-
-### **DevOps & Infra**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,githubactions" />
-</p>
-
-<br/>
-
----
-
 ## 🌱 Currently Learning
 - Distributed scraping pipelines  
 - Backend performance optimization  
@@ -62,11 +37,6 @@
 <br/>
 
 ---
-
-## 📫 Contact Me  
-📧 **Email:** `aneeshvrao2017@gmail.com`
-
-<br/>
 
 ---
 
@@ -87,3 +57,9 @@
 [![](https://visitcount.itsvg.in/api?id=AneeshVRao&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 📫 Contact Me  
+📧 **Email:** `aneeshvrao2017@gmail.com`
+
+<br/>
