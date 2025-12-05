@@ -90,5 +90,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-make sure my profile's README.md is updated
