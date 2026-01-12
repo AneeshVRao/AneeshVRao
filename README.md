@@ -1,13 +1,15 @@
 <h1 align="center">Hi, I'm Aneesh 👋</h1>
 
 <p align="center">
-B.Tech @ NIT Warangal • Backend / Full-Stack / AI Systems  
+B.Tech @ NIT Warangal • Full-Stack / AI-ML Systems  
 <br />
 I build systems that turn ideas into scalable, usable products.
 </p>
 
 <p align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aneeeesh._306) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-venkatesha-rao) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneeshvrao2017@gmail.com)
+<a href="https://linkedin.com/in/aneesh-venkatesha-rao">LinkedIn</a> •
+<a href="mailto:aneeshvrao2017@gmail.com">Email</a> •
+<a href="https://github.com/AneeshVRao">GitHub</a>
 </p>
 
 ---
