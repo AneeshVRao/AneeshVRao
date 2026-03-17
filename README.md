@@ -23,7 +23,7 @@ I build systems that turn ideas into scalable, usable products.
 - Built human-in-the-loop agent execution with approval UI, maintaining **3–6s voice-to-response latency**
 - **Tech:** TypeScript, Python, AWS (Bedrock, Transcribe, S3), RAG
 
-🔗 Repo: *(link)*
+🔗 Repo: [*(link)*](https://github.com/ashb155/dev-saarathi)
 
 ---
 
@@ -36,7 +36,7 @@ I build systems that turn ideas into scalable, usable products.
 - Developed gamification engine with XP, streaks, and 27 achievements — synced across devices via JWT auth
 - **Tech:** Next.js, React, FastAPI, IndicTrans2, Whisper, Firestore
 
-🔗 Repo: *(link)* | 🌐 Demo: *(link)*
+🔗 Repo: [*(link)* ](https://github.com/AneeshVRao/ShabdSetu)
 
 ---
 
@@ -49,7 +49,7 @@ I build systems that turn ideas into scalable, usable products.
 - Significantly reduced manual sourcing research time via automated discovery and prioritization workflows
 - **Tech:** Python, Pandas, Google Trends API, LLMs
 
-🔗 Repo: *(link)*
+🔗 Repo: [*(link)*](https://github.com/AVR-codes/ProdScrape)
 
 ---
 
