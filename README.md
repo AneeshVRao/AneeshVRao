@@ -133,12 +133,12 @@ My approach combines **AI/ML capability**, **backend rigor**, and **clean fronte
 ## GitHub Telemetry
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AneeshVRao&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7DD3FC&text_color=CBD5E1&icon_color=22D3EE" alt="GitHub stats card" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AneeshVRao&theme=github_dark" alt="GitHub stats card" />
   <img width="49%" src="https://streak-stats.demolab.com?user=AneeshVRao&hide_border=true&background=0D1117&ring=7DD3FC&fire=22D3EE&currStreakLabel=E2E8F0&sideNums=CBD5E1&currStreakNum=E2E8F0&sideLabels=94A3B8&dates=64748B" alt="GitHub streak stats card" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshVRao&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=CBD5E1" alt="Most used languages" />
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AneeshVRao&theme=github_dark" alt="Most used languages" />
 </p>
 
 <p align="center">
