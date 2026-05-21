@@ -53,10 +53,25 @@ My approach combines **AI/ML capability**, **backend rigor**, and **clean fronte
 ## Featured Builds
 
 <details open>
+  <summary><strong>ContextCraft</strong> · AST-aware codebase search engine</summary>
+  <br />
+
+- Built a hybrid search engine that parses codebases with **tree-sitter** — functions and classes as atomic chunks, never mid-function splits
+- Implemented **Reciprocal Rank Fusion** merging pgvector cosine similarity + PostgreSQL BM25, with per-repo RRF normalization for multi-repo queries
+- Added **Cohere cross-encoder reranking** (20 → 10 candidates) and 1-hop dependency graph expansion with cycle detection across file boundaries
+- Enriched every chunk with **git blame** author metadata; benchmarked at **80% source hit rate** at 3.88s P50 latency across 30 queries
+- Published to **PyPI** (`pip install contextcraft-py`); CI enforces mypy strict, ruff, and pytest before every merge
+- **Tech:** Python, FastAPI, PostgreSQL, pgvector, tree-sitter, Cohere, Next.js, Docker
+
+🔗 **Repository:** [github.com/AneeshVRao/ContextCraft](https://github.com/AneeshVRao/ContextCraft)
+
+</details>
+
+<details>
   <summary><strong>Dev-Saarathi</strong> · Voice-first AI coding assistant</summary>
   <br />
 
-- Built a voice-to-code pipeline in **5 Indian languages** (Hindi, Tamil, Telugu, Kannada, English) through transcription + intent detection
+- Built a voice-to-code pipeline in **11 Indian languages** through transcription + intent detection
 - Designed an AI orchestration flow (Intent Detection → Guardrails → Execution Router) for safe automation of code actions
 - Implemented context-aware reasoning over **50+ files / 100k+ characters** via RAG to reduce hallucinated outputs
 - Added human approval controls while keeping **3–6s voice-to-response latency**
@@ -77,20 +92,6 @@ My approach combines **AI/ML capability**, **backend rigor**, and **clean fronte
 - **Tech:** Next.js, React, FastAPI, IndicTrans2, Whisper, Firestore
 
 🔗 **Repository:** [github.com/AneeshVRao/ShabdSetu](https://github.com/AneeshVRao/ShabdSetu)
-
-</details>
-
-<details>
-  <summary><strong>ProdScrape</strong> · Supplier intelligence + ranking engine</summary>
-  <br />
-
-- Built a supplier discovery pipeline that merges scraped intelligence with **52-week Google Trends** signals
-- Created weighted ranking logic producing `SupplierQuality` and `DemandMomentum` scores for prioritized outreach
-- Integrated LLM reasoning to generate contextual “why to contact” summaries and ranking tie-breakers
-- Reduced manual sourcing effort with automated discovery and quality scoring workflows
-- **Tech:** Python, Pandas, Google Trends API, LLM APIs
-
-🔗 **Repository:** [github.com/AVR-codes/ProdScrape](https://github.com/AVR-codes/ProdScrape)
 
 </details>
 
