@@ -15,6 +15,13 @@
 </p>
 
 <p align="center">
+  <img src="https://www.shieldcn.dev/github/followers/AneeshVRao.svg?variant=secondary&size=sm" alt="GitHub Followers" />
+  <img src="https://www.shieldcn.dev/github/user-stars/AneeshVRao.svg?variant=secondary&size=sm" alt="GitHub Stars" />
+  <img src="https://www.shieldcn.dev/badge/Repos-16-2563eb.svg?logo=github&variant=secondary&size=sm" alt="Public Repos" />
+  <img src="https://www.shieldcn.dev/badge/Location-India-6366f1.svg?logo=googlemaps&variant=ghost&size=sm" alt="Location" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=950&color=7DD3FC&center=true&vCenter=true&width=950&lines=Designing+AI-native+products+with+production-grade+engineering;Building+full-stack+systems+focused+on+speed%2C+quality%2C+and+scale;Systems+thinking+%2B+clean+architecture+%2B+practical+innovation" alt="Animated summary of engineering focus" />
 </p>
 
@@ -68,6 +75,16 @@ My approach combines **AI/ML capability**, **backend rigor**, and **clean fronte
 </details>
 
 <details>
+  <summary><strong>Humanify</strong> · <!-- add a one-line description here --></summary>
+  <br />
+
+<!-- Add project details here -->
+
+🔗 **Repository:** [github.com/AneeshVRao/Humanify](https://github.com/AneeshVRao/Humanify)
+
+</details>
+
+<details>
   <summary><strong>Dev-Saarathi</strong> · Voice-first AI coding assistant</summary>
   <br />
 
@@ -109,9 +126,23 @@ My approach combines **AI/ML capability**, **backend rigor**, and **clean fronte
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" alt="Frontend and backend stack" />
 </p>
 
+#### UI & Data Libraries
+<p>
+  <img src="https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&variant=branded&size=sm" alt="Radix UI" />
+  <img src="https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&variant=branded&size=sm" alt="TanStack Query" />
+  <img src="https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=sm" alt="Zod" />
+  <img src="https://www.shieldcn.dev/badge/-Stripe-635BFF.svg?logo=stripe&variant=branded&size=sm" alt="Stripe" />
+</p>
+
 ### AI/ML, Data & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn,aws,gcp,docker,postgres,firebase" alt="AI ML, data, and cloud stack" />
+</p>
+
+#### AI & Database Services
+<p>
+  <img src="https://www.shieldcn.dev/badge/-Anthropic-D97757.svg?logo=anthropic&variant=branded&size=sm" alt="Anthropic" />
+  <img src="https://www.shieldcn.dev/badge/-Supabase-3FCF8E.svg?logo=supabase&variant=branded&size=sm" alt="Supabase" />
 </p>
 
 ### Developer Workflow
