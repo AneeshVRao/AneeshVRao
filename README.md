@@ -1,33 +1,37 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0f172a,70:111827,100:1e293b&text=Aneesh%20Venkatesha%20Rao&fontSize=42&fontAlign=50&fontAlignY=38&fontColor=e2e8f0&desc=AI/ML%20Systems%20%E2%80%A2%20Full-Stack%20Engineering%20%E2%80%A2%20Creative%20Technology&descAlign=50&descAlignY=60&descSize=16&animation=fadeIn" alt="Aneesh Venkatesha Rao profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,35:9333EA,70:DB2777,100:EA580C&text=Aneesh%20Venkatesha%20Rao&fontSize=42&fontAlign=50&fontAlignY=38&fontColor=f8fafc&desc=AI%2FML%20Systems%20%E2%80%A2%20RAG%20%26%20LLM%20Engineering%20%E2%80%A2%20Full-Stack%20Product%20Engineering&descAlign=50&descAlignY=60&descSize=16&animation=fadeIn" alt="Aneesh Venkatesha Rao profile banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/AneeshVRao">
-    <img src="https://img.shields.io/badge/GitHub-AneeshVRao-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-AneeshVRao-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://linkedin.com/in/aneesh-venkatesha-rao">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
+  <a href="https://aneesh.codes">
+    <img src="https://img.shields.io/badge/Portfolio-aneesh.codes-0EA5E9?style=for-the-badge" alt="Portfolio website" />
+  </a>
   <a href="mailto:aneeshvrao2017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aneeshvrao2017%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
+    <img src="https://img.shields.io/badge/Email-aneeshvrao2017%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://www.shieldcn.dev/github/followers/AneeshVRao.svg?variant=secondary&size=sm" alt="GitHub Followers" />
-  <img src="https://www.shieldcn.dev/github/user-stars/AneeshVRao.svg?variant=secondary&size=sm" alt="GitHub Stars" />
-  <img src="https://www.shieldcn.dev/badge/Repos-16-2563eb.svg?logo=github&variant=secondary&size=sm" alt="Public Repos" />
-  <img src="https://www.shieldcn.dev/badge/Location-India-6366f1.svg?logo=googlemaps&variant=ghost&size=sm" alt="Location" />
+  <img src="https://img.shields.io/github/followers/AneeshVRao?label=Followers&style=for-the-badge&logo=github&color=6366F1&logoColor=white" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Public_Repos-16-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="Public repos" />
+  <img src="https://img.shields.io/badge/Based_in-Warangal%2C_India-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=950&color=7DD3FC&center=true&vCenter=true&width=950&lines=Designing+AI-native+products+with+production-grade+engineering;Building+full-stack+systems+focused+on+speed%2C+quality%2C+and+scale;Systems+thinking+%2B+clean+architecture+%2B+practical+innovation" alt="Animated summary of engineering focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=950&color=A78BFA&center=true&vCenter=true&width=950&lines=Designing+AI-native+products+with+production-grade+engineering;Building+full-stack+systems+focused+on+speed%2C+quality%2C+and+scale;Currently+shipping+Stratos+for+the+IBM+AI+Builders+Challenge" alt="Animated summary of engineering focus" />
 </p>
 
 <p align="center">
   <a href="#about">About</a> •
+  <a href="#currently-building">Currently Building</a> •
   <a href="#featured-builds">Featured Builds</a> •
+  <a href="#hardware-engineering">Hardware Engineering</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#github-telemetry">GitHub Telemetry</a> •
   <a href="#achievements">Achievements</a> •
@@ -40,27 +44,47 @@
 
 ```bash
 $ whoami
-Aneesh Venkatesha Rao — B.Tech @ NIT Warangal
+Aneesh Venkatesha Rao — B.Tech ECE, NIT Warangal (2024–2028)
+
+$ status
+Third-year student • SIH 2025 National Finalist (Top 5 of 75,000+ submissions)
 
 $ focus --areas
-- AI/ML product engineering
+- AI/ML product engineering (RAG, LLM orchestration, retrieval systems)
 - Full-stack application architecture
 - Distributed data + automation pipelines
 - Human-in-the-loop developer tooling
 
 $ currently
-Building systems that turn ambitious ideas into reliable, user-ready products.
+Shipping Stratos for the IBM AI Builders Challenge, while building toward
+open-source contributor credit (LFX Mentorship / GSoC).
 ```
 
-I enjoy bridging research-minded experimentation with production-ready software.  
+I enjoy bridging research-minded experimentation with production-ready software.
 My approach combines **AI/ML capability**, **backend rigor**, and **clean frontend execution** to ship products that are both technically strong and genuinely usable.
+
+---
+
+## Currently Building
+
+<p>
+  <img src="https://img.shields.io/badge/IN_PROGRESS-Stratos-F97316?style=for-the-badge&logo=ibm&logoColor=white" alt="Currently building Stratos" />
+</p>
+
+**Stratos — "Football, Understood"**
+
+An IBM AI Builders Challenge submission (due June 30, 2026) spanning two tracks: a tactical decision explainer and a multilingual fan companion. Built on **IBM Granite / WatsonX**, **Docling**, **Langflow**, and **Context Forge**, with a **D3.js** frontend backed by a stateless, per-call backend.
+
+**Tech:** IBM Granite, WatsonX, Docling, Langflow, Context Forge, D3.js
+
+🔗 **Repository:** <!-- add repository link here once public -->
 
 ---
 
 ## Featured Builds
 
 <details open>
-  <summary><strong>ContextCraft</strong> · AST-aware codebase search engine</summary>
+  <summary><strong>ContextCraft</strong> · AST-aware codebase search engine &nbsp;<img src="https://img.shields.io/badge/Solo_Build-8B5CF6?style=flat-square" alt="Solo build" /></summary>
   <br />
 
 - Built a hybrid search engine that parses codebases with **tree-sitter** — functions and classes as atomic chunks, never mid-function splits
@@ -75,17 +99,20 @@ My approach combines **AI/ML capability**, **backend rigor**, and **clean fronte
 </details>
 
 <details>
-  <summary><strong>Humanify</strong> · <!-- add a one-line description here --></summary>
+  <summary><strong>Humanify</strong> · AI text humanizer — live, monetized SaaS &nbsp;<img src="https://img.shields.io/badge/Solo_Build-8B5CF6?style=flat-square" alt="Solo build" /></summary>
   <br />
 
-<!-- Add project details here -->
+- Built a production SaaS that rewrites AI-generated text to read naturally, with multi-AI routing across Gemini and Claude depending on input characteristics
+- Shipped and currently runs a paid Pro tier (₹999/mo) with Razorpay billing integration
+- Designed the full subscription lifecycle — auth, billing, plan gating — on Supabase
+- **Tech:** Next.js, Supabase, Razorpay, Gemini API, Claude API
 
 🔗 **Repository:** [github.com/AneeshVRao/Humanify](https://github.com/AneeshVRao/Humanify)
 
 </details>
 
 <details>
-  <summary><strong>Dev-Saarathi</strong> · Voice-first AI coding assistant</summary>
+  <summary><strong>Dev-Saarathi</strong> · Voice-first AI coding assistant &nbsp;<img src="https://img.shields.io/badge/Team_Project-F59E0B?style=flat-square" alt="Team project" /></summary>
   <br />
 
 - Built a voice-to-code pipeline in **11 Indian languages** through transcription + intent detection
@@ -94,23 +121,49 @@ My approach combines **AI/ML capability**, **backend rigor**, and **clean fronte
 - Added human approval controls while keeping **3–6s voice-to-response latency**
 - **Tech:** TypeScript, Python, AWS (Bedrock, Transcribe, S3), RAG
 
-🔗 **Repository:** [github.com/ashb155/dev-saarathi](https://github.com/ashb155/dev-saarathi)
+🔗 **Repository:** [github.com/ashb155/dev-saarathi](https://github.com/ashb155/dev-saarathi) <sub>(team repo, hosted under collaborator's account)</sub>
 
 </details>
 
 <details>
-  <summary><strong>ShabdSetu</strong> · AI-powered multilingual learning platform</summary>
+  <summary><strong>ShabdSetu</strong> · AI-powered multilingual learning platform &nbsp;<img src="https://img.shields.io/badge/Team_Project-F59E0B?style=flat-square" alt="Team project" /></summary>
   <br />
 
 - Built an end-to-end learning system for **10+ Indian languages** using IndicTrans2 + Whisper
 - Developed fuzzy pronunciation scoring for real-time speaking feedback
 - Engineered layered caching (in-memory + Firestore) for **sub-50ms** response paths
-- Added gamification with XP, streaks, and achievements synced across authenticated sessions
+- Added gamification with XP, streaks, and 27 achievements synced across authenticated sessions
 - **Tech:** Next.js, React, FastAPI, IndicTrans2, Whisper, Firestore
 
 🔗 **Repository:** [github.com/AneeshVRao/ShabdSetu](https://github.com/AneeshVRao/ShabdSetu)
 
 </details>
+
+<details>
+  <summary><strong>Nexus Load Balancer</strong> · HTTP load balancer in Go &nbsp;<img src="https://img.shields.io/badge/Solo_Build-8B5CF6?style=flat-square" alt="Solo build" /></summary>
+  <br />
+
+- Built a lightweight HTTP load balancer from scratch with round-robin request distribution across backend pools
+- Implemented active health checks (periodic probing) and passive health checks (live-traffic failure detection) to pull unhealthy backends out of rotation automatically
+- **Tech:** Go, net/http
+
+🔗 **Repository:** <!-- add repository link here -->
+
+</details>
+
+---
+
+## Hardware Engineering
+
+Coursework and lab projects at NIT Warangal, several built alongside classmates Akula Sahasra, Adhvay Shrujal, and Arushi Pundir.
+
+**Bayesian In-Memory Compute (IMC) Core**
+SRAM-based weight lookup, LFSR-driven stochastic sampling, a Kogge-Stone parallel-prefix popcount unit, and FSM control logic — implemented and verified in Vivado.
+
+**FPGA Brain Tumor Segmentation**
+Otsu thresholding + watershed segmentation accelerated via Vitis HLS on a MicroBlaze soft core, achieving a **144–229× speedup** over a software baseline. Deployed on Nexys 4 DDR / Artix-7.
+
+**Tech:** Verilog, Vivado, Vitis HLS, MicroBlaze
 
 ---
 
@@ -128,10 +181,10 @@ My approach combines **AI/ML capability**, **backend rigor**, and **clean fronte
 
 #### UI & Data Libraries
 <p>
-  <img src="https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&variant=branded&size=sm" alt="Radix UI" />
-  <img src="https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&variant=branded&size=sm" alt="TanStack Query" />
-  <img src="https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=sm" alt="Zod" />
-  <img src="https://www.shieldcn.dev/badge/-Stripe-635BFF.svg?logo=stripe&variant=branded&size=sm" alt="Stripe" />
+  <img src="https://img.shields.io/badge/-Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
 
 ### AI/ML, Data & Cloud
@@ -141,8 +194,13 @@ My approach combines **AI/ML capability**, **backend rigor**, and **clean fronte
 
 #### AI & Database Services
 <p>
-  <img src="https://www.shieldcn.dev/badge/-Anthropic-D97757.svg?logo=anthropic&variant=branded&size=sm" alt="Anthropic" />
-  <img src="https://www.shieldcn.dev/badge/-Supabase-3FCF8E.svg?logo=supabase&variant=branded&size=sm" alt="Supabase" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/-Cohere-9333EA?style=for-the-badge&logo=cohere&logoColor=white" alt="Cohere" />
+  <img src="https://img.shields.io/badge/-IBM_Granite_%2F_WatsonX-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Granite and WatsonX" />
+  <img src="https://img.shields.io/badge/-Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
+  <img src="https://img.shields.io/badge/-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/-Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
 </p>
 
 ### Developer Workflow
@@ -165,17 +223,23 @@ My approach combines **AI/ML capability**, **backend rigor**, and **clean fronte
 ## GitHub Telemetry
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AneeshVRao&theme=github_dark" alt="GitHub stats card" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=AneeshVRao&hide_border=true&background=0D1117&ring=7DD3FC&fire=22D3EE&currStreakLabel=E2E8F0&sideNums=CBD5E1&currStreakNum=E2E8F0&sideLabels=94A3B8&dates=64748B" alt="GitHub streak stats card" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AneeshVRao&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub stats card" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshVRao&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AneeshVRao&theme=github_dark" alt="Most used languages" />
+  <img src="https://streak-stats.demolab.com?user=AneeshVRao&hide_border=true&background=0D1117&ring=A78BFA&fire=FB7185&currStreakLabel=E2E8F0&sideNums=CBD5E1&currStreakNum=E2E8F0&sideLabels=94A3B8&dates=64748B" alt="GitHub streak stats card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AneeshVRao&bg_color=0d1117&color=cbd5e1&line=38bdf8&point=22d3ee&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AneeshVRao&bg_color=0d1117&color=cbd5e1&line=38bdf8&point=f472b6&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AneeshVRao&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub trophies" />
+</p>
+
+<sub>If any card above doesn't render, it's usually a temporary outage on the free hosting tier for that widget — reloading the page or waiting a few minutes typically fixes it.</sub>
 
 ---
 
@@ -187,21 +251,12 @@ My approach combines **AI/ML capability**, **backend rigor**, and **clean fronte
 
 ---
 
-## Current Focus
-
-- Building AI-assisted developer tools with strong guardrails
-- Optimizing backend systems for latency and throughput
-- Applying systems thinking to end-to-end product design
-- Shipping practical AI integrations that solve real user problems
-
----
-
 ## Open To Collaborate
 
-- Backend / Full-Stack internships
-- AI product engineering roles
-- Summer 2026 opportunities
-- Open-source collaborations in AI tooling and productivity systems
+- 🌱 Open-source contributions — actively working toward **LFX Mentorship** / **Google Summer of Code**
+- 🤖 AI/ML product engineering internships
+- 🛠️ Backend / full-stack engineering roles
+- 🔗 Collaborations in dev tooling, RAG systems, and developer productivity
 
 <p>
   If you're building something meaningful in AI, full-stack systems, or developer tooling, I'd love to connect.
@@ -209,9 +264,12 @@ My approach combines **AI/ML capability**, **backend rigor**, and **clean fronte
 
 <p align="center">
   <a href="mailto:aneeshvrao2017@gmail.com">
-    <img src="https://img.shields.io/badge/Reach%20Out-Mail-1f2937?style=flat-square&logo=gmail&logoColor=white" alt="Email me" />
+    <img src="https://img.shields.io/badge/Reach%20Out-Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email me" />
   </a>
   <a href="https://linkedin.com/in/aneesh-venkatesha-rao">
     <img src="https://img.shields.io/badge/Let%27s%20Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://aneesh.codes">
+    <img src="https://img.shields.io/badge/Portfolio-aneesh.codes-0EA5E9?style=flat-square" alt="Visit portfolio" />
   </a>
 </p>
