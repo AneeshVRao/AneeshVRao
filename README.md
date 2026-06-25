@@ -253,6 +253,7 @@ Otsu thresholding + watershed segmentation accelerated via Vitis HLS on a MicroB
   />
 </p>
 
+<h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
