@@ -254,7 +254,8 @@ Otsu thresholding + watershed segmentation accelerated via Vitis HLS on a MicroB
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AneeshVRao/SnakeAnim/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/AneeshVRao/SnakeAnim/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
