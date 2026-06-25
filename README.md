@@ -227,19 +227,35 @@ Otsu thresholding + watershed segmentation accelerated via Vitis HLS on a MicroB
 ## GitHub Telemetry
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AneeshVRao&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=38BDF8&amp;text_color=CBD5E1" alt="GitHub stats card" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshVRao&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=CBD5E1" alt="Most used languages" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=AneeshVRao&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=CBD5E1&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshVRao&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AneeshVRao&amp;hide_border=true&amp;background=0D1117&amp;ring=A78BFA&amp;fire=FB7185&amp;currStreakLabel=E2E8F0&amp;sideNums=CBD5E1&amp;currStreakNum=E2E8F0&amp;sideLabels=94A3B8&amp;dates=64748B" alt="GitHub streak stats card" />
+  <img
+    src="https://streak-stats.demolab.com?user=AneeshVRao&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=E2E8F0&sideNums=CBD5E1&currStreakNum=E2E8F0&sideLabels=94A3B8&dates=64748B"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AneeshVRao&amp;bg_color=0d1117&amp;color=cbd5e1&amp;line=38bdf8&amp;point=f472b6&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AneeshVRao&bg_color=0D1117&color=CBD5E1&line=38BDF8&point=F472B6&area=true&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
 
-<sub>If any card above doesn't render, it's usually a temporary outage on the free hosting tier for that widget — reloading the page or waiting a few minutes typically fixes it.</sub>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AneeshVRao/AneeshVRao/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
