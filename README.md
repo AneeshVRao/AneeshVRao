@@ -1,30 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,35:9333EA,70:DB2777,100:EA580C&text=Aneesh%20Venkatesha%20Rao&fontSize=42&fontAlign=50&fontAlignY=38&fontColor=f8fafc&desc=AI%2FML%20Systems%20%E2%80%A2%20RAG%20%26%20LLM%20Engineering%20%E2%80%A2%20Full-Stack%20Product%20Engineering&descAlign=50&descAlignY=60&descSize=16&animation=fadeIn" alt="Aneesh Venkatesha Rao profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:4F46E5,35:9333EA,70:DB2777,100:EA580C&amp;text=Aneesh%20Venkatesha%20Rao&amp;fontSize=42&amp;fontAlign=50&amp;fontAlignY=38&amp;fontColor=f8fafc&amp;desc=AI%2FML%20Systems%20%E2%80%A2%20RAG%20%26%20LLM%20Engineering%20%E2%80%A2%20Full-Stack%20Product%20Engineering&amp;descAlign=50&amp;descAlignY=60&amp;descSize=16&amp;animation=fadeIn" alt="Aneesh Venkatesha Rao profile banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/AneeshVRao">
-    <img src="https://img.shields.io/badge/GitHub-AneeshVRao-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-AneeshVRao-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://linkedin.com/in/aneesh-venkatesha-rao">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile" />
   </a>
   <a href="https://aneesh.codes">
     <img src="https://img.shields.io/badge/Portfolio-aneesh.codes-0EA5E9?style=for-the-badge" alt="Portfolio website" />
   </a>
   <a href="mailto:aneeshvrao2017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aneeshvrao2017%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
+    <img src="https://img.shields.io/badge/Email-aneeshvrao2017%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email contact" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AneeshVRao?label=Followers&style=for-the-badge&logo=github&color=6366F1&logoColor=white" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Public_Repos-16-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="Public repos" />
-  <img src="https://img.shields.io/badge/Based_in-Warangal%2C_India-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/github/followers/AneeshVRao?label=Followers&amp;style=for-the-badge&amp;logo=github&amp;color=6366F1&amp;logoColor=white" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Public_Repos-16-EC4899?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Public repos" />
+  <img src="https://img.shields.io/badge/Based_in-Warangal%2C_India-22D3EE?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Location" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=950&color=A78BFA&center=true&vCenter=true&width=950&lines=Designing+AI-native+products+with+production-grade+engineering;Building+full-stack+systems+focused+on+speed%2C+quality%2C+and+scale;Currently+shipping+Stratos+for+the+IBM+AI+Builders+Challenge" alt="Animated summary of engineering focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2800&amp;pause=950&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=950&amp;lines=Designing+AI-native+products+with+production-grade+engineering;Building+full-stack+systems+focused+on+speed%2C+quality%2C+and+scale;Currently+shipping+Stratos+for+the+IBM+AI+Builders+Challenge" alt="Animated summary of engineering focus" />
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ My approach combines **AI/ML capability**, **backend rigor**, and **clean fronte
 ## Currently Building
 
 <p>
-  <img src="https://img.shields.io/badge/IN_PROGRESS-Stratos-F97316?style=for-the-badge&logo=ibm&logoColor=white" alt="Currently building Stratos" />
+  <img src="https://img.shields.io/badge/IN_PROGRESS-Stratos-F97316?style=for-the-badge&amp;logo=ibm&amp;logoColor=white" alt="Currently building Stratos" />
 </p>
 
 **Stratos — "Football, Understood"**
@@ -169,38 +169,38 @@ Otsu thresholding + watershed segmentation accelerated via Vitis HLS on a MicroB
 
 ## Tech Stack
 
-### Languages & Core
+### Languages &amp; Core
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,go,cpp,sql" alt="Languages and core technologies" />
 </p>
 
-### Frontend & Backend
+### Frontend &amp; Backend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" alt="Frontend and backend stack" />
 </p>
 
-#### UI & Data Libraries
+#### UI &amp; Data Libraries
 <p>
-  <img src="https://img.shields.io/badge/-Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
-  <img src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
-  <img src="https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/-Radix_UI-161618?style=for-the-badge&amp;logo=radixui&amp;logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&amp;logo=reactquery&amp;logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&amp;logo=zod&amp;logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&amp;logo=stripe&amp;logoColor=white" alt="Stripe" />
 </p>
 
-### AI/ML, Data & Cloud
+### AI/ML, Data &amp; Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn,aws,gcp,docker,postgres,firebase" alt="AI ML, data, and cloud stack" />
 </p>
 
-#### AI & Database Services
+#### AI &amp; Database Services
 <p>
-  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/-Cohere-9333EA?style=for-the-badge&logo=cohere&logoColor=white" alt="Cohere" />
-  <img src="https://img.shields.io/badge/-IBM_Granite_%2F_WatsonX-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Granite and WatsonX" />
-  <img src="https://img.shields.io/badge/-Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
-  <img src="https://img.shields.io/badge/-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
-  <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/-Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/-Cohere-9333EA?style=for-the-badge&amp;logo=cohere&amp;logoColor=white" alt="Cohere" />
+  <img src="https://img.shields.io/badge/-IBM_Granite_%2F_WatsonX-052FAD?style=for-the-badge&amp;logo=ibm&amp;logoColor=white" alt="IBM Granite and WatsonX" />
+  <img src="https://img.shields.io/badge/-Whisper-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Whisper" />
+  <img src="https://img.shields.io/badge/-Anthropic-D97757?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/-Razorpay-0C2451?style=for-the-badge&amp;logo=razorpay&amp;logoColor=white" alt="Razorpay" />
 </p>
 
 ### Developer Workflow
@@ -223,20 +223,16 @@ Otsu thresholding + watershed segmentation accelerated via Vitis HLS on a MicroB
 ## GitHub Telemetry
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AneeshVRao&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub stats card" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshVRao&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AneeshVRao&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=38BDF8&amp;text_color=CBD5E1" alt="GitHub stats card" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshVRao&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=CBD5E1" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AneeshVRao&hide_border=true&background=0D1117&ring=A78BFA&fire=FB7185&currStreakLabel=E2E8F0&sideNums=CBD5E1&currStreakNum=E2E8F0&sideLabels=94A3B8&dates=64748B" alt="GitHub streak stats card" />
+  <img src="https://streak-stats.demolab.com?user=AneeshVRao&amp;hide_border=true&amp;background=0D1117&amp;ring=A78BFA&amp;fire=FB7185&amp;currStreakLabel=E2E8F0&amp;sideNums=CBD5E1&amp;currStreakNum=E2E8F0&amp;sideLabels=94A3B8&amp;dates=64748B" alt="GitHub streak stats card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AneeshVRao&bg_color=0d1117&color=cbd5e1&line=38bdf8&point=f472b6&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AneeshVRao&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AneeshVRao&amp;bg_color=0d1117&amp;color=cbd5e1&amp;line=38bdf8&amp;point=f472b6&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 </p>
 
 <sub>If any card above doesn't render, it's usually a temporary outage on the free hosting tier for that widget — reloading the page or waiting a few minutes typically fixes it.</sub>
@@ -264,10 +260,10 @@ Otsu thresholding + watershed segmentation accelerated via Vitis HLS on a MicroB
 
 <p align="center">
   <a href="mailto:aneeshvrao2017@gmail.com">
-    <img src="https://img.shields.io/badge/Reach%20Out-Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email me" />
+    <img src="https://img.shields.io/badge/Reach%20Out-Mail-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email me" />
   </a>
   <a href="https://linkedin.com/in/aneesh-venkatesha-rao">
-    <img src="https://img.shields.io/badge/Let%27s%20Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/Let%27s%20Connect-LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="https://aneesh.codes">
     <img src="https://img.shields.io/badge/Portfolio-aneesh.codes-0EA5E9?style=flat-square" alt="Visit portfolio" />
