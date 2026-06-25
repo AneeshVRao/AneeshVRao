@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:4F46E5,35:9333EA,70:DB2777,100:EA580C&amp;text=Aneesh%20Venkatesha%20Rao&amp;fontSize=42&amp;fontAlign=50&amp;fontAlignY=38&amp;fontColor=f8fafc&amp;desc=AI%2FML%20Systems%20%E2%80%A2%20RAG%20%26%20LLM%20Engineering%20%E2%80%A2%20Full-Stack%20Product%20Engineering&amp;descAlign=50&amp;descAlignY=60&amp;descSize=16&amp;animation=fadeIn" alt="Aneesh Venkatesha Rao profile banner" />
+  <img
+  src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:2563EB,50:7C3AED,75:EC4899,100:F59E0B&text=Aneesh%20Venkatesha%20Rao&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=24&animation=fadeIn&stroke=ffffff&strokeWidth=1"
+  width="100%"
+/>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/AneeshVRao">
@@ -83,8 +87,8 @@ An IBM AI Builders Challenge submission (due June 30, 2026) spanning two tracks:
 
 ## Featured Builds
 
-<details open>
-  <summary><strong>ContextCraft</strong> · AST-aware codebase search engine &nbsp;<img src="https://img.shields.io/badge/Solo_Build-8B5CF6?style=flat-square" alt="Solo build" /></summary>
+<details open="open">
+  <summary><strong>ContextCraft</strong> · AST-aware codebase search engine &#160;<img src="https://img.shields.io/badge/Solo_Build-8B5CF6?style=flat-square" alt="Solo build" /></summary>
   <br />
 
 - Built a hybrid search engine that parses codebases with **tree-sitter** — functions and classes as atomic chunks, never mid-function splits
@@ -99,7 +103,7 @@ An IBM AI Builders Challenge submission (due June 30, 2026) spanning two tracks:
 </details>
 
 <details>
-  <summary><strong>Humanify</strong> · AI text humanizer — live, monetized SaaS &nbsp;<img src="https://img.shields.io/badge/Solo_Build-8B5CF6?style=flat-square" alt="Solo build" /></summary>
+  <summary><strong>Humanify</strong> · AI text humanizer — live, monetized SaaS &#160;<img src="https://img.shields.io/badge/Solo_Build-8B5CF6?style=flat-square" alt="Solo build" /></summary>
   <br />
 
 - Built a production SaaS that rewrites AI-generated text to read naturally, with multi-AI routing across Gemini and Claude depending on input characteristics
@@ -112,7 +116,7 @@ An IBM AI Builders Challenge submission (due June 30, 2026) spanning two tracks:
 </details>
 
 <details>
-  <summary><strong>Dev-Saarathi</strong> · Voice-first AI coding assistant &nbsp;<img src="https://img.shields.io/badge/Team_Project-F59E0B?style=flat-square" alt="Team project" /></summary>
+  <summary><strong>Dev-Saarathi</strong> · Voice-first AI coding assistant &#160;<img src="https://img.shields.io/badge/Team_Project-F59E0B?style=flat-square" alt="Team project" /></summary>
   <br />
 
 - Built a voice-to-code pipeline in **11 Indian languages** through transcription + intent detection
@@ -126,7 +130,7 @@ An IBM AI Builders Challenge submission (due June 30, 2026) spanning two tracks:
 </details>
 
 <details>
-  <summary><strong>ShabdSetu</strong> · AI-powered multilingual learning platform &nbsp;<img src="https://img.shields.io/badge/Team_Project-F59E0B?style=flat-square" alt="Team project" /></summary>
+  <summary><strong>ShabdSetu</strong> · AI-powered multilingual learning platform &#160;<img src="https://img.shields.io/badge/Team_Project-F59E0B?style=flat-square" alt="Team project" /></summary>
   <br />
 
 - Built an end-to-end learning system for **10+ Indian languages** using IndicTrans2 + Whisper
@@ -140,7 +144,7 @@ An IBM AI Builders Challenge submission (due June 30, 2026) spanning two tracks:
 </details>
 
 <details>
-  <summary><strong>Nexus Load Balancer</strong> · HTTP load balancer in Go &nbsp;<img src="https://img.shields.io/badge/Solo_Build-8B5CF6?style=flat-square" alt="Solo build" /></summary>
+  <summary><strong>Nexus Load Balancer</strong> · HTTP load balancer in Go &#160;<img src="https://img.shields.io/badge/Solo_Build-8B5CF6?style=flat-square" alt="Solo build" /></summary>
   <br />
 
 - Built a lightweight HTTP load balancer from scratch with round-robin request distribution across backend pools
