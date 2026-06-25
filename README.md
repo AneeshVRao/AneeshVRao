@@ -1,6 +1,6 @@
 <p align="center">
   <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:2563EB,50:7C3AED,75:EC4899,100:F59E0B&text=Aneesh%20Venkatesha%20Rao&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=24&animation=fadeIn&stroke=ffffff&strokeWidth=1"
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:2563EB,50:7C3AED,75:EC4899,100:F59E0B&text=Aneesh%20Venkatesha%20Rao&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=24&animation=fadeIn&stroke=ffffff&strokeWidth=1"
   width="100%"
 />
 </p>
@@ -22,8 +22,11 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AneeshVRao&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/followers/AneeshVRao?label=Followers&amp;style=for-the-badge&amp;logo=github&amp;color=6366F1&amp;logoColor=white" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Public_Repos-16-EC4899?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Public repos" />
   <img src="https://img.shields.io/badge/Based_in-Warangal%2C_India-22D3EE?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Location" />
 </p>
 
@@ -51,7 +54,7 @@ $ whoami
 Aneesh Venkatesha Rao — B.Tech ECE, NIT Warangal (2024–2028)
 
 $ status
-Third-year student • SIH 2025 National Finalist (Top 5 of 75,000+ submissions)
+AI Engineer • Open Source Contributor • SIH 2025 National Finalist (Top 5 of 75,000+ submissions)
 
 $ focus --areas
 - AI/ML product engineering (RAG, LLM orchestration, retrieval systems)
@@ -224,7 +227,7 @@ Otsu thresholding + watershed segmentation accelerated via Vitis HLS on a MicroB
 
 ---
 
-## GitHub Telemetry
+## GitHub Analytics
 
 <p align="center">
   <img
